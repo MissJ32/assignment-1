@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TheCakeAdvisor</string>
+    <string name="Sponge">Sponge Cake</string>
+    <string name="Chocolate">Chocolate Cake</string>
+    <string name="Red">Red Velvet</string>
+    <string name="Donuts">Donuts</string>
+    <string name="Cookies">Cookies</string>
+
+    <string name="Ice">Icing</string>
+    <string name="NoIce">No Icing</string>
+    <string name="Sugar">Sugared</string>
+
+    <string name="eight">8-inch</string>
+    <string name="ten">10-inch</string>
+    <string name="cup">Cupcakes</string>
+//not taking arrays
+</resources>
